@@ -92,9 +92,8 @@ HashForge
 
 <br>
 
-#### 🔍 Vergleich: HashForge V1 vs. V2 (Extended) vs. V3 (Ultimate)
-
-Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen sowie die technische Ausbaustufe der drei Entwicklungsphasen von **HashForge**.
+> 🔍 Vergleich: HashForge V1 vs. V2 (Extended) vs. V3 (Ultimate)
+- Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen sowie die technische Ausbaustufe der drei Entwicklungsphasen von **HashForge**.
 
 ---
 
