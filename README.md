@@ -95,7 +95,11 @@ HashForge
 > 🔍 Vergleich: HashForge V1 vs. V2 (Extended) vs. V3 (Ultimate)
 - Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen sowie die technische Ausbaustufe der drei Entwicklungsphasen von **HashForge**.
 
+<br>
+
 ---
+
+<br>
 
 ## 📊 Funktionsmatrix
 
@@ -113,11 +117,15 @@ HashForge
 | Modularer Codeaufbau             | ❌ Minimal     | ✅ Modular                | ✅ Architekturiert        |
 | API-Vorbereitung / Export        | ❌ Nein        | ❌ Noch nicht             | ✅ Geplant / vorbereitet  |
 
+<br>
+
 ---
+
+<br>
 
 ### ✅ Vorteile & ❌ Nachteile
 
-### 🔹 Version 1 – **HashForge**
+> 🔹 Version 1 – **HashForge**
 
 **Pro:**
 - Schneller Einstieg
@@ -129,9 +137,13 @@ HashForge
 - Kein Salt-Management
 - Keine Erweiterbarkeit ohne manuelle Anpassung
 
+<br>
+
 ---
 
-### 🔸 Version 2 – **HashForge+ Extended**
+<br>
+
+> 🔸 Version 2 – **HashForge+ Extended**
 
 **Pro:**
 - Volle Hash-Abdeckung (inkl. SHA3, bcrypt)
@@ -144,9 +156,13 @@ HashForge
 - Keine zentrale API-Schnittstelle
 - Noch manuell testbar, keine Validierungslogik
 
+<br>
+
 ---
 
-### 🟢 Version 3 – **HashForge+ Ultimate**
+<br>
+
+> 🟢 Version 3 – **HashForge+ Ultimate**
 
 **Pro:**
 - Alle Features von V1 & V2
@@ -159,9 +175,13 @@ HashForge
 - Komplexere Wartung / mehr Abhängigkeiten
 - Finalisierung der API- und Exportkomponenten in Arbeit
 
+<br>
+
 ---
 
-## 🧭 Fazit
+<br>
+
+> 🧭 Fazit
 
 | Empfehlung | Zielgruppe |
 |------------|------------|
@@ -169,14 +189,22 @@ HashForge
 | **V2**     | Entwickler, Power-User, Webprojekte mit erweiterten Hashanforderungen |
 | **V3**     | Profis, Plattform-Integration, API-ready Security Framework |
 
+<br>
+
 ---
 
-### 🔐 Hinweis zur Weiterentwicklung
+<br>
+
+> 🔐 Hinweis zur Weiterentwicklung
 
 > Version 3 (**HashForge+ Ultimate**) ist das primäre Zielsystem für produktive Nutzung mit allen Sicherheits- und Analysefeatures.  
 - Es basiert auf den stabilen Modulen von V1 und V2.
 
+<br>
+
 ---
+
+<br>
 
 © 2025 Thorsten Bylicki | BYLICKILABS  
 Lizenz: MIT | Status: In aktiver Weiterentwicklung
