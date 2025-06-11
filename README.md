@@ -44,7 +44,7 @@ HashForge
 <br>
 
 🧠 Verwendete Technologien
-> omponente Beschreibung
+   - Komponente Beschreibung
 - HTML5	Semantische Strukturierung
 - CSS3	Neon-Design, flexibles Layout
 - JavaScript	Hauptlogik für Interaktion & Berechnung
@@ -57,12 +57,12 @@ HashForge
 
 <br>
 
-📦 Installation & Nutzung
-    - 🔍 Voraussetzungen
-    - Moderner Browser (Chrome, Firefox, Edge, Brave)
+> 📦 Installation & Nutzung
+- 🔍 Voraussetzungen
+- Moderner Browser (Chrome, Firefox, Edge, Brave)
 
 > Keine Serverinstallation nötig
-> 🧪 Lokale Ausführung
+- 🧪 Lokale Ausführung
 
 <br>
 
@@ -71,7 +71,7 @@ HashForge
 <br>
 
 > 🛠 Erweiterungsmöglichkeiten
-  - Idee Beschreibung
+- Idee Beschreibung
 - 🔄 Salt-Handling	Optionale Salt-Eingabe zur Hash-Manipulation
 - 🔢 SHA-512	Unterstützung für größere Hash-Ausgaben
 - 🔒 Passwortstärkenanzeige	Analyse & Bewertung generierter Passwörter
@@ -83,8 +83,8 @@ HashForge
 
 <br>
 
-📌 Hinweis
-> Diese Version bildet die Basis für HashForge+ Extended und wird im Laufe der Entwicklung als Kernmodul weitergeführt.
+> 📌 Hinweis
+- Diese Version bildet die Basis für HashForge+ Extended und wird im Laufe der Entwicklung als Kernmodul weitergeführt.
 
 <br>
 
