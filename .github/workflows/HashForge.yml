@@ -1,4 +1,4 @@
-name: "HashForge CI"
+name: "HashForge CI" 
 
 on:
   push:
