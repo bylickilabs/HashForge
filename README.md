@@ -206,8 +206,55 @@ HashForge
 
 <br>
 
-© 2025 Thorsten Bylicki | BYLICKILABS  
-Lizenz: MIT | Status: In aktiver Weiterentwicklung
+🔐 Warum ist Version 3 ein Security Framework?
+
+✅ 1. Modularität & Erweiterbarkeit
+- Jedes Feature ist in sich gekapselt und erweiterbar (z. B. Hash-Module, Salt-Handler, UI-Komponenten)
+- Ermöglicht die Integration in größere Systeme (z. B. Benutzerverwaltung, Authentifizierung, Pen-Testing-Tools)
 
 ---
 
+✅ 2. Unterstützte Algorithmen & Sicherheitsschichten
+- Breite Auswahl: SHA-1, SHA-2, SHA-3, MD5, bcrypt
+- bcrypt mit konfigurierbarem Cost-Faktor → Passworthärtung
+- 1Salt-Generierung (statisch + dynamisch)
+- Vorbereitung auf künftige Module (z. B. scrypt, Argon2, PBKDF2 via WASM)
+
+---
+
+> ✅ 3. UI-Komponenten zur Sicherheitsbewertung
+- Passwortgenerator mit kontrollierbarer Entropie
+- Pop-up-System & Modals (später erweiterbar auf Warnungen, Richtlinienprüfungen)
+- Status-Feedback und visuelle Kontrolle über den Hashprozess
+
+---
+
+> ✅ 4. Struktur für API & Export-Integration
+- HashForge+ Ultimate ist von Anfang an darauf ausgelegt, als Kernmodul in eine größere Sicherheitsplattform eingebettet zu werden
+
+> Ideal für:
+- REST-API-Gateways
+- Secure Token Generation
+- Hashverifikation in Login-Systemen
+- Audit-Log-Funktionalität
+
+---
+
+> 📦 Zusammenfassung
+- Kriterium	HashForge+ Ultimate
+- Architektur	Modular
+- Sicherheit	Hashing + Salt + Cost-Faktor
+- Erweiterbarkeit	Hoch
+- Einsatzbereich	Standalone & Integration
+- Framework-Niveau ✅ Ja
+
+<br>
+
+---
+
+<br>
+
+© 2025 Thorsten Bylicki | BYLICKILABS  
+MIT [LICENSE](LICENSE)  | Status: In aktiver Weiterentwicklung
+
+---
