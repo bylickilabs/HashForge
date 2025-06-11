@@ -4,7 +4,6 @@
   "description": "Browserbasiertes Sicherheitstool zur Passwortgenerierung und Hashberechnung im Neon-Design",
   "main": "index.js",
   "scripts": {
-    "install": "npm install",
     "build": "echo 'Kein Build definiert (Webprojekt)'",
     "test": "echo 'Keine Tests definiert'",
     "lint": "echo 'Kein Linting definiert'"
@@ -20,19 +19,5 @@
     "eslint-plugin-import": "^2.29.1"
   },
   "author": "Thorsten Bylicki",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bylickilabs/HashForge.git"
-  },
-  "keywords": [
-    "hashforge",
-    "bcrypt",
-    "SHA3",
-    "MD5",
-    "Passwortgenerator",
-    "Neon",
-    "Security",
-    "Hashing"
-  ]
+  "license": "MIT"
 }
