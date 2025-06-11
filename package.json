@@ -1,11 +1,11 @@
 {
   "name": "hashforge",
-  "version": "3.0",
+  "version": "3.0.0",
+  "description": "HashForge – Passwortgenerator & Hash-Tool",
   "scripts": {
-    "install": "npm install",
-    "build": "echo 'kein Build notwendig'",
-    "test": "echo 'keine Tests vorhanden'",
-    "lint": "echo 'kein Linting vorhanden'"
+    "build": "echo 'Kein Build definiert'",
+    "test": "echo 'Keine Tests definiert'",
+    "lint": "echo 'Kein Linting definiert'"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
