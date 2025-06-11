@@ -116,7 +116,7 @@ Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen s
 
 ---
 
-## ✅ Vorteile & ❌ Nachteile
+### ✅ Vorteile & ❌ Nachteile
 
 ### 🔹 Version 1 – **HashForge**
 
@@ -172,10 +172,10 @@ Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen s
 
 ---
 
-## 🔐 Hinweis zur Weiterentwicklung
+### 🔐 Hinweis zur Weiterentwicklung
 
-Version 3 (**HashForge+ Ultimate**) ist das primäre Zielsystem für produktive Nutzung mit allen Sicherheits- und Analysefeatures.  
-Es basiert auf den stabilen Modulen von V1 und V2.
+> Version 3 (**HashForge+ Ultimate**) ist das primäre Zielsystem für produktive Nutzung mit allen Sicherheits- und Analysefeatures.  
+- Es basiert auf den stabilen Modulen von V1 und V2.
 
 ---
 
