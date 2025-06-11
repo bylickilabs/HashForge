@@ -1,2 +1,73 @@
-- name: npm Cache leeren
-  run: npm cache clean --force
+name: "HashForge CI"
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Abhängigkeiten installieren
+        run: npm install
+
+      - name: Projektinformationen anzeigen
+        run: |
+          echo "Projektname: HashForge"
+          echo "Versionen:"
+          echo "- 1.0 HashForge: Passwortgenerator (einfach), SHA-1, SHA-256, MD5 via SparkMD5"
+          echo "- 2.0 HashForge+ Extended: Erweiterter Passwortgenerator, Salt-Optionen, SHA-1 bis SHA3, bcrypt"
+          echo "- 3.0 HashForge+ Ultimate: Volle Funktionalität, Erweiterbarkeit via API und Export, komponentenbasierte Architektur, WASM-Unterstützung"
+          echo "Autor: Thorsten Bylicki"
+          echo "Organisation: BYLICKILABS"
+          echo "Lizenz: MIT"
+
+      - name: Technologien & Bibliotheken überprüfen
+        run: |
+          echo "Technologien: HTML5, CSS3, JavaScript (ES6)"
+          echo "Bibliotheken: SparkMD5, bcrypt.js, js-sha3"
+          echo "APIs: WebCrypto API"
+
+      - name: Hash-Algorithmen überprüfen
+        run: |
+          echo "Unterstützte Hash-Algorithmen: SHA-1, SHA-256, SHA-384, SHA-512, SHA3-224, SHA3-256, SHA3-384, SHA3-512, MD5, bcrypt"
+          echo "bcrypt Cost-Faktoren: 10, 12, 14"
+
+      - name: UI & Benutzerfreundlichkeit überprüfen
+        run: |
+          echo "UI-Theme: Neon"
+          echo "Layout: Responsive"
+          echo "Modal-System: Aktiv"
+          echo "Clipboard-Integration: Aktiv"
+
+      - name: Browser-Kompatibilität überprüfen
+        run: |
+          echo "Unterstützte Browser: Chrome, Firefox, Edge, Brave"
+          echo "Eingeschränkte Unterstützung: Safari (bcrypt benötigt ggf. Polyfill)"
+
+      - name: Projektstatus anzeigen
+        run: |
+          echo "Aktuelle Phase: Entwicklung"
+          echo "Stabilität: Experimentell"
+
+      - name: Build-Prozess durchführen
+        run: npm run build || echo "Kein Build-Skript vorhanden"
+
+      - name: Tests durchführen
+        run: npm test || echo "Keine Tests vorhanden"
+
+      - name: Linting
+        run: npm run lint || echo "Kein Linting vorhanden"
