@@ -1,9 +1,13 @@
-# 🔐 HashForge – Version 1
+# 🔐 HashForge
 
 **HashForge** ist ein leichtgewichtiges, browserbasiertes Tool zur Generierung von sicheren Passwörtern sowie zur Hash-Erzeugung mit klassischen Algorithmen wie SHA-1, SHA-256 und MD5.  
 Die erste Version konzentriert sich auf **Benutzerfreundlichkeit**, **Klarheit**, **Performance** und ein **visuelles Neon-Design**.
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 Funktionen
 
@@ -17,7 +21,11 @@ Die erste Version konzentriert sich auf **Benutzerfreundlichkeit**, **Klarheit**
 - 💡 Klare, reaktionsschnelle Benutzeroberfläche mit Neon-Stil
 - 🧩 Modularer Aufbau für einfache Erweiterbarkeit
 
+<br>
+
 ---
+
+<br>
 
 ## 📁 Projektstruktur
 
