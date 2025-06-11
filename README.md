@@ -58,11 +58,11 @@ HashForge
 <br>
 
 > 📦 Installation & Nutzung
-- 🔍 Voraussetzungen
-- Moderner Browser (Chrome, Firefox, Edge, Brave)
+  - 🔍 Voraussetzungen
+  - Moderner Browser (Chrome, Firefox, Edge, Brave)
 
 > Keine Serverinstallation nötig
-- 🧪 Lokale Ausführung
+  - 🧪 Lokale Ausführung
 
 <br>
 
@@ -71,11 +71,11 @@ HashForge
 <br>
 
 > 🛠 Erweiterungsmöglichkeiten
-- Idee Beschreibung
-- 🔄 Salt-Handling	Optionale Salt-Eingabe zur Hash-Manipulation
-- 🔢 SHA-512	Unterstützung für größere Hash-Ausgaben
-- 🔒 Passwortstärkenanzeige	Analyse & Bewertung generierter Passwörter
-- ☁️ Exportfunktion	Ausgabe als CSV oder JSON
+  - Idee Beschreibung
+  - 🔄 Salt-Handling	Optionale Salt-Eingabe zur Hash-Manipulation
+  - 🔢 SHA-512	Unterstützung für größere Hash-Ausgaben
+  - 🔒 Passwortstärkenanzeige	Analyse & Bewertung generierter Passwörter
+  - ☁️ Exportfunktion	Ausgabe als CSV oder JSON
 
 <br>
 
@@ -84,7 +84,7 @@ HashForge
 <br>
 
 > 📌 Hinweis
-- Diese Version bildet die Basis für HashForge+ Extended und wird im Laufe der Entwicklung als Kernmodul weitergeführt.
+  - Diese Version bildet die Basis für HashForge+ Extended und wird im Laufe der Entwicklung als Kernmodul weitergeführt.
 
 <br>
 
@@ -93,7 +93,7 @@ HashForge
 <br>
 
 > 🔍 Vergleich: HashForge V1 vs. V2 (Extended) vs. V3 (Ultimate)
-- Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen sowie die technische Ausbaustufe der drei Entwicklungsphasen von **HashForge**.
+  - Ein direkter Überblick über den Funktionsumfang, die Stärken und Schwächen sowie die technische Ausbaustufe der drei Entwicklungsphasen von **HashForge**.
 
 <br>
 
