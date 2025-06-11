@@ -1,11 +1,17 @@
 |[![VirusTotal HashForge+](https://img.shields.io/badge/HashForge%2B-VirusTotal-blue)](https://www.virustotal.com/gui/file/cb26a123af0c4e35f6789255f6d611f8c5abb6a418f984b0c83f6af89090f28d/detection)|[![VirusTotal HashForge+ Extended](https://img.shields.io/badge/HashForge%2B%20Extended-VirusTotal-green)](https://www.virustotal.com/gui/file/5ff588fb56d4986d7530e37e41bfead598dfbc80cdcc5f0cb84fc75932e87c3c?nocache=1)|[![VirusTotal HashForge+ Ultimate](https://img.shields.io/badge/HashForge%2B%20Ultimate-VirusTotal-purple)](https://www.virustotal.com/gui/file/3af0c34b66ee39f9796e9e669fd7a5edb5246a2dc5678811ece34030df505491?nocache=1)|
 |---|---|---|
 
+<br>
 
 # 🔐 HashForge
 
 **HashForge** ist ein leichtgewichtiges, browserbasiertes Tool zur Generierung von sicheren Passwörtern sowie zur Hash-Erzeugung mit klassischen Algorithmen wie SHA-1, SHA-256 und MD5.  
-Die erste Version konzentriert sich auf **Benutzerfreundlichkeit**, **Klarheit**, **Performance** und ein **visuelles Neon-Design**.
+  - Die erste Version konzentriert sich auf **Benutzerfreundlichkeit**, **Klarheit**, **Performance** und ein **visuelles Neon-Design**.
+
+<br>
+
+|![v1](https://github.com/user-attachments/assets/8a13d590-dccb-48cc-a3c2-a3eb9fd38db4)|![v2](https://github.com/user-attachments/assets/7d2542c5-6118-4063-a5b7-d6c70da0421e)|![v3](https://github.com/user-attachments/assets/fd2e31c3-a4fc-4fb0-ba94-21ac6671de42)|
+|---|---|---|
 
 <br>
 
