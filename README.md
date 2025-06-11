@@ -42,7 +42,7 @@
 ```yarn
 HashForge/
 ├── .github/workflows
-│   └── HashForge.yml
+│           └── HashForge.yml
 │ 
 ├── Badges.md
 ├── LICENSE
