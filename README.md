@@ -255,6 +255,6 @@ HashForge
 <br>
 
 © 2025 Thorsten Bylicki | BYLICKILABS  
-Lizenz: MIT | Status: In aktiver Weiterentwicklung
+MIT [LICENSE](LICENSE)  | Status: In aktiver Weiterentwicklung
 
 ---
