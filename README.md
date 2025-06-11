@@ -40,11 +40,17 @@
 ## 📁 Projektstruktur
 
 ```yarn
-HashForge
+HashForge/
+├── .github/workflows
+│   └── HashForge.yml
+│ 
+├── Badges.md
+├── LICENSE
+├── README.md
 ├── index.html
-├── style.css
+├── package.json
 ├── script.js
-└── README.md
+└── style.css
 ```
 
 <br>
